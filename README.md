@@ -2,7 +2,8 @@
 
 > Transform messy, unstructured text into perfectly structured JSON, CSV, or SQL using AI-powered prompting pipelines.
 
-![DataForge Screenshot](screenshot.png)
+<img width="1189" height="922" alt="image" src="https://github.com/user-attachments/assets/c0ef0d06-1a72-4576-b844-6291a5449827" />
+
 
 ## ✨ Live Demo
 👉 **[Try it live](https://YOUR_USERNAME.github.io/unstructured-data-structurer)**
