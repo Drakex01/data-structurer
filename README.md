@@ -6,7 +6,7 @@
 
 
 ## ✨ Live Demo
-👉 **[Try it live](https://YOUR_USERNAME.github.io/unstructured-data-structurer)**
+👉 **[Try it live](https://drakex01.github.io/data-structurer/)**
 
 ---
 
